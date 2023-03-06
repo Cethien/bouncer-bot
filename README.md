@@ -1,6 +1,6 @@
 # Bouncer Bot
 
-# Environment Variables
+## Environment Variables
 
 | Variable          | Description                                             |
 | ----------------- | ------------------------------------------------------- |
