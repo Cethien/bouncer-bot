@@ -1,4 +1,6 @@
 # Bouncer Bot
+a bot to kick people who been in a voice channel for too damn long
+`WIP`
 
 ## Environment Variables
 
